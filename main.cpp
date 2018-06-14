@@ -91,7 +91,7 @@ const int ms_delay_between_requests = 60*1000; // 2 minute
 
 
 const char* ssid = "isak_ASUS_2G"; //your WiFi Name
-const char* password = "alispale";  //Your Wifi Password
+const char* password = "******";  //Your Wifi Password
 
 const char* host = "reisapi.ruter.no";
 const int httpsPort = 443;
